@@ -25,7 +25,7 @@ ul a { /* seleciona os links dentro da ul */
 	text-decoration: none;
 	text-indent: 40px;
 	line-height: 40px;
-	background: #f7b600 url(../imagens/menu.png) no-repeat left bottom;
+	background: #f7b600 url(menu.png) no-repeat left bottom;
 	
 }
 
